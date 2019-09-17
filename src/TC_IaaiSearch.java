@@ -28,4 +28,5 @@ public class TC_IaaiSearch {
         System.setProperty("webdriver.chrome.driver","/Users/hakkiyaz/Downloads/chromedriver");
         driver=new ChromeDriver();
     }
+    //@yazHak
 }
